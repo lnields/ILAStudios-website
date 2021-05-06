@@ -13,3 +13,4 @@ return(
 </div>
 )
 }
+export default GenericDashboard
