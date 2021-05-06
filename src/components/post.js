@@ -1,8 +1,8 @@
-function Post(){
+const Post = (Img, title, price, id) => {
 	return(
-		<div>
+		<div herf={"/post/" + id}>
+			props
 			ur gay
-
 		</div>
 	)
 }
